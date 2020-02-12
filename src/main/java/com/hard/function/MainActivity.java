@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.btn_f_02:
                 Utils.startActivity(mContext, BezierRun2CircleActivity.class);
+	Log.i("Jerry", onClick 02");
                 break;
             case R.id.btn_f_03:
                 Utils.startActivity(mContext, BezierDIYActivity.class);
