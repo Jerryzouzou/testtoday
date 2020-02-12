@@ -90,6 +90,6 @@ public class BezierDIYActivity extends AppCompatActivity implements View.OnClick
                     .append(UIUtils.px2dip(mContext, point.x)+",")
                     .append(UIUtils.px2dip(mContext, point.y)+" ]\n");
         }
-        Log.i(TAG, "ControlPointList: "+sb.toString());
+        Log.i(TAG, "ControlPointList jerry: "+sb.toString());
     }
 }
