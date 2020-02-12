@@ -13,7 +13,7 @@ import com.hard.function.tool.UIUtils;
 import androidx.annotation.Nullable;
 
 /**
- * @author Jerry Lai
+ * @author Jerry Lai is me
  * 带坐标和网格背景基础view
  */
 public abstract class GridCoordinateCustomBaseView extends View {

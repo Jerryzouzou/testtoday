@@ -22,7 +22,7 @@ import java.util.List;
  */
 public class BezierDIYActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private final static String TAG = "BezierDIY";
+    private final static String TAG = "BezierDIY jerry";
     private Context mContext;
     private DIYBezierView diyBezierView;
     private RadioGroup rgStatus;
