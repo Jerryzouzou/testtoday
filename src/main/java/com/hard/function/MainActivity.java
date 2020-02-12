@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()){
             case R.id.btn_f_01:
                 Utils.startActivity(mContext, BezierBeginDerivationActivity.class);
+				Log.i("Jerry", "onClick: ");
                 break;
             case R.id.btn_f_02:
                 Utils.startActivity(mContext, BezierRun2CircleActivity.class);
