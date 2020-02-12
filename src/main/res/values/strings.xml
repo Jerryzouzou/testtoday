@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Func</string>
+    <string name="bazier_line">Bazier</string>
+    <string name="bazier_circle">Bazier2Circle</string>
+    <string name="bazier_diy">BazierDIY</string>
+    <string name="rate">rate(%1$d)</string>
+    <string name="order">order(%1$d)</string>
+    <string name="ratio">ratio (%1$s)</string>
+</resources>
