@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         mContext = this;
         findView();
-        Log.i("Jerry", "onCreate: ");
+        Log.i("Jerry11", "onCreate: ");
     }
 
     private void findView() {
